@@ -9,9 +9,9 @@ class ListaDeClientes extends React.Component {
         <h1>Listado de pacientes</h1>
         <ul style={{listStyle:"none"}}>
           {
-            data.map((perro, index) =>(
+            data.map((perro) =>(
               <React.Fragment>
-                <Perro index={index} datos={perro}/>
+                <Perro datos={perro}/>
               </React.Fragment>  
             ))
           }
