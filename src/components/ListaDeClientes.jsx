@@ -11,7 +11,7 @@ class ListaDeClientes extends React.Component {
           {
             data.map((perro, index) =>(
               <React.Fragment>
-                <Perro key={index} datos={perro}/>
+                <Perro index={index} datos={perro}/>
               </React.Fragment>  
             ))
           }
