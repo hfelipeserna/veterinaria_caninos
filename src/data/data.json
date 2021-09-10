@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Firulais",
+    "edad": "11",
+    "sexo": "Macho",
+    "raza": "Pastor Alemán",
+    "tamaño": "Grande"
+  },
+  {
+    "nombre": "Maya",
+    "edad": "13",
+    "sexo": "Hembra",
+    "raza": "Pug",
+    "tamaño": "Chico"
+  },
+  {
+    "nombre": "Pipo",
+    "edad": "5",
+    "sexo": "Macho",
+    "raza": "Schnauzer",
+    "tamaño": "Mediano"
+  },
+  {
+    "nombre": "Pacha",
+    "edad": "2",
+    "sexo": "Hembra",
+    "raza": "Mestizo",
+    "tamaño": "Chico"
+  }
+]
