@@ -1,30 +1,34 @@
 [
   {
+    "id": "a",
     "nombre": "Firulais",
     "edad": "11",
     "sexo": "Macho",
     "raza": "Pastor Alemán",
-    "tamaño": "Grande"
+    "tamano": "Grande"
   },
   {
+    "id": "b",
     "nombre": "Maya",
     "edad": "13",
     "sexo": "Hembra",
     "raza": "Pug",
-    "tamaño": "Chico"
+    "tamano": "Chico"
   },
   {
+    "id": "c",
     "nombre": "Pipo",
     "edad": "5",
     "sexo": "Macho",
     "raza": "Schnauzer",
-    "tamaño": "Mediano"
+    "tamano": "Mediano"
   },
   {
+    "id": "d",
     "nombre": "Pacha",
     "edad": "2",
     "sexo": "Hembra",
     "raza": "Mestizo",
-    "tamaño": "Chico"
+    "tamano": "Chico"
   }
 ]

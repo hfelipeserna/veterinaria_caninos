@@ -7,10 +7,10 @@ class Perro extends React.Component {
     <React.Fragment>
         <h2>Nombre: {data.nombre}</h2>
         <ul style={{listStyle:"none"}}>
-            <li key={data.edad.id}>Edad: {data.edad}</li>
-            <li key={data.sexo.id}>Sexo: {data.sexo}</li>
-            <li key={data.raza.id}>Raza: {data.raza}</li>
-            <li key={data.tamaño.id}>Tamaño: {data.tamaño}</li>
+            <li>Edad: {data.edad}</li>
+            <li>Sexo: {data.sexo}</li>
+            <li>Raza: {data.raza}</li>
+            <li>Tamaño: {data.tamano}</li>
         </ul>
     </React.Fragment>
     );
